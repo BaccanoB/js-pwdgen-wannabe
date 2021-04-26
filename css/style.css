@@ -1,0 +1,19 @@
+h2 {
+    font-size: 50px;
+    color: rgb(119, 16, 122);
+}
+
+#nome {
+    font-weight: bolder;
+    color: rgb(219, 36, 219);
+}
+
+p {
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(119, 16, 122);
+}
+
+#password {
+    color: rgb(219, 36, 219);
+}
